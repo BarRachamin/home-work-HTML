@@ -1,0 +1,55 @@
+body {
+  background-color: rgb(23, 36, 40);
+}
+
+.name {
+  color: tomato;
+  font-family: "DynaPuff", cursive;
+  margin-top: 0px;
+}
+
+.nameofresturant {
+  color: yellow;
+}
+
+.div1 {
+  margin: auto;
+  position: absolute;
+  top: 0px;
+  left: 35%;
+  z-index: 1;
+  text-align: top;
+}
+.div2 {
+  width: 800px;
+  height: 200px;
+  background-color: rgb(14, 183, 235);
+  color: aliceblue;
+  position: relative;
+  margin: 170px auto 0px 15%;
+}
+.lines {
+  list-style: none;
+  font-family: "DynaPuff", cursive;
+  margin-left: 550px;
+}
+
+.ul {
+  border: dashed 2px;
+}
+
+body img {
+  border-radius: 20px;
+}
+
+.nameofresturant {
+  margin-left: 300px;
+  top: 0px;
+}
+.bodyvideo {
+  margin: 0px auto 0px 360px;
+  width: 250px;
+  height: 150px;
+
+  box-shadow: 40px 40px 40px 20px rgb(255, 8, 0);
+}
